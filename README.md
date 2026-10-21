@@ -1,6 +1,6 @@
 # AWS MCP Server
 
-[![smithery badge](https://smithery.ai/badge/mcp-server-aws)](https://smithery.ai/server/mcp-server-aws)
+[![Listed on LightNow](https://lightnow.ai/badge/io.github.rishikavikondala/mcp-server-aws?variant=listed)](https://lightnow.ai/servers/io.github.rishikavikondala/mcp-server-aws)
 
 A [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol) server implementation for AWS operations that currently supports S3 and DynamoDB services. All operations are automatically logged and can be accessed through the `audit://aws-operations` resource endpoint.
 
